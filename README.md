@@ -7,7 +7,6 @@
 ```markdown
 
 
-## 👨‍💻 Developer: Nafiz Sheikh
 
 git clone https://github.com/nafiz1000x/NAFIZ_HTML-Hack_tools.git
 
