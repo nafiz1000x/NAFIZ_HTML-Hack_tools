@@ -5,7 +5,7 @@
 ---
 
 ```markdown
-# 🔥 NAFIZ HTML HACK TOOLS
+
 
 ## 👨‍💻 Developer: Nafiz Sheikh
 
@@ -15,7 +15,7 @@ cd NAFIZ_HTML-Hack_tools
 
 python Nafiz_html-hack.py
 
-## 🎥 ভিডিও দেখে আসুন
+
 ```
 
 ভিডিও দেখে আসুন
