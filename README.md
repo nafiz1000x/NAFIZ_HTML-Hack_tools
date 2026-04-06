@@ -18,7 +18,8 @@ python Nafiz_html-hack.py
 ```
 
 ভিডিও দেখে আসুন
-
+https://t.me/nafizsheikhtech/451
+https://t.me/nafizsheikhtech/451
 ---
 
 developer contact:https://t.me/Nafizsheikh0x
